@@ -1,0 +1,1 @@
+Add(Mul(Rational(1, 2), Pow(Indexed(IndexedBase(Symbol('P', real=True), Tuple(Symbol('D'))), Integer(0)), Integer(2))), Mul(Rational(1, 4), Pow(Indexed(IndexedBase(Symbol('Q', real=True), Tuple(Symbol('D'))), Integer(0)), Integer(4))), Mul(Integer(-1), Rational(5, 4), Pow(Indexed(IndexedBase(Symbol('Q', real=True), Tuple(Symbol('D'))), Integer(0)), Integer(2))))
